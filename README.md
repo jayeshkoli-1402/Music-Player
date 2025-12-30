@@ -41,7 +41,7 @@ project/
 ## Installation
 
 1. Clone the repository
-git clone https://github.com/yourusername/MUSICPLAYER.git
+git clone (https://github.com/jayeshkoli-1402/Music-Player)
 
 2. Go the directory by Entering: 
 cd MUSICPLAYER
@@ -57,6 +57,7 @@ pip install -r requirements.txt
 python app.py
 
 7. follow the link in Terminal 
+
 
 
 
